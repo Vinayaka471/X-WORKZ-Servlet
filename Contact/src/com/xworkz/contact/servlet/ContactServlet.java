@@ -27,8 +27,8 @@ public class ContactServlet extends GenericServlet {
         servletRequest.setAttribute("mobile", mobile);
         servletRequest.setAttribute("comments", comments);
 
-        // Forward to ContactResult.html
-        RequestDispatcher dispatcher = servletRequest.getRequestDispatcher("ContactResult.html");
+        // Forward to ContactResult.jsp
+        RequestDispatcher dispatcher = servletRequest.getRequestDispatcher("ContactResult.jsp");
         dispatcher.forward(servletRequest, servletResponse);
     }
 }
