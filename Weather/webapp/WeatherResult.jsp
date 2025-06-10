@@ -7,7 +7,7 @@
         <h1>Weather Updated Result</h1>
     </center>
 </head>
-    <body>
+<body>
 <p>Location : ${locationname}</p>
 <br>
 <p>Captured By : ${capturedname} </p>

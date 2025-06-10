@@ -22,7 +22,7 @@
         <label>Record Date</label>
         <input type="Date" name="datename">
         <br>
-            <input type="submit" value="submit">
+        <input type="submit" value="submit">
     </div>
 </form>
 </body>
