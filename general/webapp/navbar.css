@@ -1,5 +1,5 @@
 .navClass {
-    background-color: rgb(87, 223, 91);
+    background-color: rgb(56, 203, 56);
     border-radius: 2vh;
     padding: 7px 20px;
     display :flex;
@@ -15,13 +15,13 @@ li {
 
 .navClass ul li a {
     text-decoration: none;
-    color: black;
+    color: pink;
     padding: 6px 12px;
 }
 
 .navClass ul li:hover {
    color: rgb(228, 24, 24);
-    background-color: rgb(193, 194, 194);
+    background-color: rgb(170, 150, 140);
     border-radius: 5px;
 }
 
