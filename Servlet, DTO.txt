@@ -1,0 +1,55 @@
+03-06-25
+
+JSP: Java Server Page. It is a auto generated Servlet.
+
+Tomcat=>Thread=> req: extract form data, res => finally  [Service(req, res)]
+
+client=browser
+set the URL
+add request letter
+add form data/req data/parameters
+
+index.jsp
+theft.jsp
+TheftServlet.java(in package)
+TheftResult.jsp
+
+
+
+RequestDispatcher: Is an object used to link one servlet with another servlet.
+
+09-06-2025
+DTO: Data Transfer Object. It transfer data between classes.
+
+5 Ruls: Non final, implements seriablebael, No-arg const, private properties, getters & setters. 
+
+Interface without methods called Marker interface used for tagging. It has no abstract methods.
+
+Serializable: Sending object from one JVM to another JVM.
+
+Difference b/w Serialization and de-serialization.
+
+10-06-2025
+
+HTTP(Hyper Text Transfer Protocol): Introduced in 1995, latest version is 3.
+
+servlet 5 methods: service, getServletInfo, destroy, inint, getServletConfig.
+
+HTTP Total 9 methods:
+
+GET: for Read
+
+POST: for Create
+
+PUT: for Update
+
+DELETE: for Delete
+
+
+11-06-2025
+
+client=in bytes=TOMCAT=(creates thread request response)=Servlet=method(service(req,res)=another method doPostreq,res)req->DTO= extracted data Servicetyppes = check 
+
+validate
+
+
